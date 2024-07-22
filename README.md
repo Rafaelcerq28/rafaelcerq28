@@ -5,7 +5,7 @@ This space is used to store my personal/study projects. I hope you enjoy!😄
 - 🔭 I’m currently working to improve my programming skills
 - 🌱 I’m currently learning Microservices, Docker and Kubernets
 
-Below you can some of my favorite projects.
+Below you can see some of my favorite projects.
 
 <!--
 **Rafaelcerq28/rafaelcerq28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
