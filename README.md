@@ -2,8 +2,8 @@
 
 This space is used to store my personal/study projects. I hope you enjoy!😄
 
-- 🔭 I’m currently working to improve my programming skills
-- 🌱 I’m currently learning Microservices, Docker and Kubernets
+- 🔭 I’m currently studying to improve my programming skills
+- 🌱 I’m currently learning Angular
 
 Below you can see some of my favorite projects.
 
