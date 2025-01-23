@@ -28,7 +28,7 @@ Feel free to reach out for collaboration, code reviews, or just to connect! I'm 
 ## 📂 Projects
 Here are a few highlights of the projects I'm working on:
 
-### 1. [HerPlace](https://github.com/Rafaelcerq28/HerPlace)
+### 1. [HerPlace](https://herplace.web.app/)
 A safety-focused web application that allows users to review bars and clubs, report incidents, and share safety tips. Built with Angular, Spring Boot, and a PostgreSQL database.
 
 ---
