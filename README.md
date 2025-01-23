@@ -1,30 +1,36 @@
-### Hi there! 
+# 👋 Hi, I'm Rafael Gozzi
 
-This space is used to store my personal/study projects. I hope you enjoy!😄
+## 🚀 About Me
+I'm a **Software Engineer** with a background in IT as a **Technical Support Analyst** for over 7 years. Currently, I'm transitioning into software development with a focus on **backend development** and **REST APIs**. I'm passionate about solving problems, learning new technologies, and building scalable and user-focused solutions.
 
-- 🔭 I’m currently studying to improve my programming skills
-- 🌱 I’m currently learning Angular
+## 💻 Skills
+- **Programming Languages**: Java, JavaScript, Python
+- **Frameworks and Tools**: Spring Boot, Angular, REST APIs, gRPC
+- **Web Development**: HTML, CSS, JavaScript, Bootstrap
+- **Databases**: SQL, Data Modeling, DDL/DML commands
+- **Other Tools**: Docker, Git, TeamViewer, AnyDesk
+- **Soft Skills**: Problem-solving, communication, adaptability
 
-Below you can see some of my favorite projects.
+## 🎓 Education
+- **Higher Diploma in Science in Computing** (In Progress) - National College of Ireland
+- **BSc in Information Systems** - Universidade Nove de Julho
 
-<!--
-**Rafaelcerq28/rafaelcerq28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Currently Learning
+- Advanced backend development techniques
+- Deepening my knowledge of Angular for front-end integration
+- Exploring cloud technologies for scalable applications
 
-Here are some ideas to get you started:
+## 📫 Let's Connect
+- **LinkedIn**: [linkedin.com/in/rafael-cerqueira28](https://www.linkedin.com/in/rafael-cerqueira28)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Microservices, Docker and Kubernets
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-- 📫 How to reach me: ...
--  Things that I like: ...
-- ⚡ Fun fact: ...
+Feel free to reach out for collaboration, code reviews, or just to connect! I'm always excited to learn and grow in the tech community.
 
-tutorial -> https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance
+## 📂 Projects
+Here are a few highlights of the projects I'm working on:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelcerq28)](https://github.com/anuraghazra/github-readme-stats)
+### 1. [HerPlace](https://github.com/Rafaelcerq28/HerPlace)
+A safety-focused web application that allows users to review bars and clubs, report incidents, and share safety tips. Built with Angular, Spring Boot, and a PostgreSQL database.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcerq28)](https://github.com/anuraghazra/github-readme-stats)
+---
 
--->
+Thank you for visiting my GitHub profile! Don't hesitate to explore my repositories and provide feedback. 😊
