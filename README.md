@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Rafael Gozzi
 
 ## 🚀 About Me
-I'm a **Software Engineer** with a background in IT as a **Technical Support Analyst** for over 7 years. Currently, I'm transitioning into software development with a focus on **backend development** and **REST APIs**. I'm passionate about solving problems, learning new technologies, and building scalable and user-focused solutions.
+I'm a **Software Engineer** with a background in IT as a **Technical Support Analyst** for over 7 years. Currently, I'm transitioning into software development with a focus on **backend development** and **RESTFul APIs**. I'm passionate about solving problems, learning new technologies, and building scalable and user-focused solutions.
 
 ## 💻 Skills
-- **Programming Languages**: Java, JavaScript, Python
-- **Frameworks and Tools**: Spring Boot, Angular, REST APIs, gRPC
+- **Programming Languages**: Java, TypeScript, JavaScript, Python
+- **Frameworks and Tools**: Spring Boot, Angular, RESTFul APIs, Microservices
 - **Web Development**: HTML, CSS, JavaScript, Bootstrap
 - **Databases**: SQL, Data Modeling, DDL/DML commands
-- **Other Tools**: Docker, Git, TeamViewer, AnyDesk
+- **Other Tools**: Docker, Kubernetes, Git, GitHub
 - **Soft Skills**: Problem-solving, communication, adaptability
 
 ## 🎓 Education
